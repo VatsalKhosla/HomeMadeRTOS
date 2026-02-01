@@ -1,0 +1,23 @@
+# Build artifacts
+Debug_FLASH/
+Debug_RAM/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+
+# IDE files
+.settings/
+.cproject
+.project
+*.launch
+
+# Compiled objects
+*.d
+*.su
+
+# Temporary files
+*.tmp
+*.swp
+*~
